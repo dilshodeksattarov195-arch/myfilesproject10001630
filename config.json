@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "productcerify",
+        "uuid": 7304030,
+        "checksum": "ms55jq"
+    },
+    "settings": {
+        "retries": 5,
+        "enabled": true,
+        "mode": "staging"
+    }
+}
